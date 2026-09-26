@@ -133,15 +133,15 @@ The repository contains the main graphs from the research analysis.
 
 ### Inflation vs Oil Price
 
-![Inflation vs Oil Price](graphs/01_inflation_vs_oil_price.png)
+![Inflation vs Oil Price](graphs/01_inflation_vs_oil_price.png.png)
 
 ### Inflation vs Renewable Energy Share
 
-![Inflation vs Renewable Energy](graphs/02_inflation_vs_renewable_energy.png)
+![Inflation vs Renewable Energy](graphs/02_inflation_vs_renewable_energy.png.png)
 
 ### GDP Growth vs Renewable Energy Share
 
-![GDP Growth vs Renewable Energy](graphs/03_gdp_growth_vs_renewable_energy.png)
+![GDP Growth vs Renewable Energy](graphs/03_gdp_growth_vs_renewable_energy.png.png)
 
 ### ARIMAX Inflation Forecast
 
