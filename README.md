@@ -143,13 +143,17 @@ The repository contains the main graphs from the research analysis.
 
 ![GDP Growth vs Renewable Energy](graphs/03_gdp_growth_vs_renewable_energy.png.png)
 
+### ARDL Inflation Forecast
+
+![ARDL Forecast](graphs/04_ardl_inflation_forecast_2026_2030.png.png)
+
 ### ARIMAX Inflation Forecast
 
-![ARIMAX Forecast](graphs/04_arimax_inflation_forecast_2026_2030.png)
+![ARIMAX Forecast](graphs/05_arimax_inflation_forecast_2026_2030.png.png)
 
 ### ARDL vs ARIMAX Forecast
 
-![ARDL vs ARIMAX](graphs/05_ardl_vs_arimax_forecast.png)
+![ARDL vs ARIMAX](graphs/06_ardl_vs_arimax_forecast.png.png)
 
 ---
 
