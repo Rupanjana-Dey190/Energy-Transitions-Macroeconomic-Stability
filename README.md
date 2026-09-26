@@ -161,6 +161,7 @@ The repository contains the main graphs from the research analysis.
 
 ```text
 Energy-Transitions-Macroeconomic-Stability/
+Energy-Transitions-Macroeconomic-Stability/
 │
 ├── README.md
 │
@@ -171,15 +172,14 @@ Energy-Transitions-Macroeconomic-Stability/
 │   └── ARDL_Analysis.py
 │
 ├── graphs/
-│   ├── 01_inflation_vs_oil_price.png
-│   ├── 02_inflation_vs_renewable_energy.png
-│   ├── 03_gdp_growth_vs_renewable_energy.png
-│   ├── 04_arimax_inflation_forecast_2026_2030.png
-│   ├── 05_ardl_vs_arimax_forecast.png
-│   └── README.md
-│
-└── report/
-    └── Adv Macroeconomics II.pdf
+│   ├── 01_inflation_vs_oil_price.png.png
+│   ├── 02_inflation_vs_renewable_energy.png.png
+│   ├── 03_gdp_growth_vs_renewable_energy.png.png
+│   ├── 04_ardl_inflation_forecast_2026_2030.png.png
+│   ├── 05_arimax_inflation_forecast_2026_2030.png.png
+│   ├── 06_ardl_vs_arimax_forecast.png
+│   
+
 ```
 
 ---
